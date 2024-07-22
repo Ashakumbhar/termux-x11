@@ -21,7 +21,7 @@ or
 ~ $ git submodule update --init --recursive
 ```
 
-## How does it work?
+## How does it work?j
 Just like any other X server.
 
 ## Setup Instructions
